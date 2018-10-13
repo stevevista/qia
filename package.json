@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nan": "^2.2.0"
+    "nan": "^2.2.0",
+    "sax": "^1.2.4"
   }
 }
